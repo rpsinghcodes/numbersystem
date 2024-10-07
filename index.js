@@ -29,3 +29,4 @@ const numbers = [
 
   const oddNumbers = countOddNumbers(numbers);
   console.log(oddNumbers);
+
